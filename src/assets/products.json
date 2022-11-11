@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Camiseta Ao Infinito",
+        "type": "Unissex (verde)",
+        "price": 79.90,
+        "imageUrl": "./imagens/camiseta-buzz.jpg",
+        "imageAlt": "Camiseta buzz"
+    },
+    {
+        "id": 2,
+        "name": "Camista Disco Voador",
+        "type": "Unissex (branca)",
+        "price": 69.90,
+        "imageUrl": "./imagens/camiseta-ibelive.jpg",
+        "imageAlt": "Camista disco voador"
+    },
+    {
+        "id": 3,
+        "name": "Camiseta E.T na Lua",
+        "type": "Unissex (preta)",
+        "price": 79.90,
+        "imageUrl": "./imagens/camiseta-etnalua.jpg",
+        "imageAlt": "Camiseta ET"
+    },
+    {
+        "id": 4,
+        "name": "Camiseta Baby Yoda",
+        "type": "Unissex (preta)",
+        "price": 79.90,
+        "imageUrl": "./imagens/camiseta-byoda.jpg",
+        "imageAlt": "Camiseta baby yoda"
+    },
+    {
+        "id": 5,
+        "name": "Camiseta Nasa Hype",
+        "type": "Unissex (preta)",
+        "price": 79.90,
+        "imageUrl": "./imagens/camiseta-nasa.jpg",
+        "imageAlt": "Camiseta nasa"
+    },
+    {
+        "id": 6,
+        "name": "Camiseta Astronauta",
+        "type": "Unissex (preta)",
+        "price": 69.90,
+        "imageUrl": "./imagens/camiseta-astronauta.jpg",
+        "imageAlt": "Camiseta astronauta"
+    },
+    {
+        "id": 7,
+        "name": "Camiseta Exploration",
+        "type": "Unissex (branca)",
+        "price": 69.90,
+        "imageUrl": "./imagens/camiseta-ampulheta.jpg",
+        "imageAlt": "Camiseta ampulheta"
+    },
+    {
+        "id": 8,
+        "name": "Camiseta 8 Planetas",
+        "type": "Unissex (laranja)",
+        "price": 79.90,
+        "imageUrl": "./imagens/camiseta-8planetas.jpg",
+        "imageAlt": "Camiseta 8planetas"
+    }
+]

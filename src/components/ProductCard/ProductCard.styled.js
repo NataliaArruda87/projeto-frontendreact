@@ -72,3 +72,95 @@ export const BuyingSection = styled.div`
     }
 
 `
+export const ProducCardContainer2 = styled.article`
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    box-shadow: 2px 3px 5px 0px rgba(176,166,166,0.74);
+    height: 150px;
+    width: 800px;
+    position: relative;
+    //border: 2px solid black;
+
+    img {
+        width: 100px;
+        height: 100px;
+        padding: 8px;
+        border: 1px solid black;
+        margin: 24px;
+    }
+
+    .cart-price {
+        margin-right: 16px;
+        font-weight: bold;
+        font-size: 20px;
+    }
+
+
+    .qteProduct {
+        margin-left: 100px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+        .change-qte {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-top: 4px;
+
+            .button-add, .button-sub {
+                background-color: white;
+                border: none;
+                height: 12px;
+                width: 12px;
+                font-size: 16px;
+                position: unset;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                margin: 4px;
+            }
+            .add-image, .sub-image {
+                width: 30px;
+                height: 30px;
+                padding: 8px;
+                margin: 24px;
+                border: none;
+            }
+        }
+    }
+
+    button {
+        position: absolute;
+        right: 85%;
+        top: 20%;
+        background-color: #F27329;
+        border: none;
+        height: 15px;
+        width: 12px;
+        font-size: 12px;
+
+        :hover {
+            cursor: pointer;
+            filter: brightness(1.1);
+        }
+        :active {
+            filter: brightness(0.95);
+        }
+
+    }
+
+`
+export const InfoSection2 = styled.div`
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 48px;
+    margin-right: 48px;
+    display: flex;
+`
+

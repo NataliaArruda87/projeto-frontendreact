@@ -3,23 +3,23 @@
         "id": 1,
         "name": "Camiseta Ao Infinito",
         "type": "Unissex (verde)",
-        "price": 79.90,
+        "price": 89.90,
         "imageUrl": "./imagens/camiseta-buzz.jpg",
         "imageAlt": "Camiseta buzz"
     },
     {
         "id": 2,
-        "name": "Camista Disco Voador",
+        "name": "Camiseta UFO I Belive",
         "type": "Unissex (branca)",
-        "price": 69.90,
+        "price": 59.90,
         "imageUrl": "./imagens/camiseta-ibelive.jpg",
-        "imageAlt": "Camista disco voador"
+        "imageAlt": "Camiseta disco voador"
     },
     {
         "id": 3,
         "name": "Camiseta E.T na Lua",
         "type": "Unissex (preta)",
-        "price": 79.90,
+        "price": 75.90,
         "imageUrl": "./imagens/camiseta-etnalua.jpg",
         "imageAlt": "Camiseta ET"
     },
@@ -27,7 +27,7 @@
         "id": 4,
         "name": "Camiseta Baby Yoda",
         "type": "Unissex (preta)",
-        "price": 79.90,
+        "price": 85.90,
         "imageUrl": "./imagens/camiseta-byoda.jpg",
         "imageAlt": "Camiseta baby yoda"
     },
@@ -43,7 +43,7 @@
         "id": 6,
         "name": "Camiseta Astronauta",
         "type": "Unissex (preta)",
-        "price": 69.90,
+        "price": 65.90,
         "imageUrl": "./imagens/camiseta-astronauta.jpg",
         "imageAlt": "Camiseta astronauta"
     },
